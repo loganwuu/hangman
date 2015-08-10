@@ -5,18 +5,18 @@
 #### By **Logan Wu**
 
 ## Description
-This app displays and allows users to add and delete jobs they have held.
+This app displays users's guess, the actual word they are guess as the game progresses .
 
 ## Setup
 * Open Terminal
 * Enter the web directory in AddressBook using terminal
 * Enter the following command into termianl 'php -S localhost:8000'
 * Open a web browser and type this into the address bar 'localhost:8000'
-* Requires Silex/Silex ~1.1 to be installed in the AddressBook project folder on the console by typing in "composer install" and "composer update"
+* Requires Silex/Silex ~1.1 and Twig/Twig ~1.0 to be installed in the AddressBook project folder on the console by typing in "composer install" and "composer update"
 
 ## Technologies Used
 
-PHP, HTML, CSS, Silex, Composer
+PHP, HTML, CSS, Silex, Twig, Composer
 
 ## Legal
 
